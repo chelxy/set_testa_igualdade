@@ -1,3 +1,4 @@
+/*HashCode e equals estão implementados*/
 package application;
 
 import java.util.HashSet;
